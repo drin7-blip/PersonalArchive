@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: One Piece 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple nothing
+tagline: Explore the world of One Piece, its characters, adventures, and unforgettable stories.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "It talks about nothing"
+description: "One Piece is a popular Japanese anime about Monkey D. Luffy and his crew as they travel across the sea in search of the legendary treasure called the One Piece. Along their journey, they meet new friends, face powerful enemies, and experience exciting adventures. The story highlights friendship, freedom, loyalty, and the importance of never giving up on your dreams. This archive is dedicated to exploring the characters, places, and memorable moments from the anime."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
